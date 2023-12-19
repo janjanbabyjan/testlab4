@@ -4,8 +4,8 @@
 
 ## Team Members
 
-### [Author 1]
-NAME : Supattra Pangjun
-SECTION : 4
-GIT USERNAME : janjanbabyjan
-![Author 1](./media/jan.jpg)
+### [USER1]
+**NAME : Supattra Pangjun
+**SECTION : 4
+**GIT USERNAME : janjanbabyjan
+**![USER1](/media/chin.png)
